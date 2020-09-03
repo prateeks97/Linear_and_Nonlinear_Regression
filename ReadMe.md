@@ -1,1 +1,1 @@
-This is trial. adakfk
+This repository contains projects on Linear and Non Linear model fitting.
