@@ -18,4 +18,5 @@ This repository contains projects on Linear and non-Linear Regression problems.
 
 ### Example of Non-Linear Regression
 
-<img  src="https://en.wikipedia.org/wiki/File:Michaelis-Menten_saturation_curve_of_an_enzyme_reaction.svg"  width="400"  height="300"/>
+<img  src="https://i.stack.imgur.com/hyxTJ.png"  width="400"  height="300"/>
+
