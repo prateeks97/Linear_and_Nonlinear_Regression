@@ -9,8 +9,8 @@ The model to be fitted is given as:
 <a href="https://www.codecogs.com/eqnedit.php?latex=y&space;=&space;ln&space;(ax)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?y&space;=&space;ln&space;(ax)" title="y = ln (ax)" /></a>
 </p>
 where,
-a = unknown
-x = x data point
+a = unknown, 
+x = x data point, 
 y = y data point
 
 <p align="center">
@@ -18,8 +18,8 @@ y = y data point
 </p>
 
 where,
-E = error function
-N = number of total known data points
+E = error function, 
+N = number of total known data points, 
 a = unknown
 
 
@@ -47,7 +47,6 @@ Now using the below equation to iteratively find a converging solution:
 where,
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=a_{n}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?a_{n}" title="a_{n}" /></a>= Initial guess
-
 <a href="https://www.codecogs.com/eqnedit.php?latex=a_{n&plus;1}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?a_{n&plus;1}" title="a_{n+1}" /></a> = calculated guess to be used in the next iteration
 
 ## Implementation Details
