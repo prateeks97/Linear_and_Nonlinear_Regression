@@ -56,7 +56,7 @@ where,
 
 2. The C++ implementation for the model fitting can be found [here](https://github.com/prateeks97/linear_and_nonlinear_modelFitting/blob/master/Non-Linear%20Regression/model_fitting_cpp/model_fitting.cpp). For theory refer to the above given text.
 
-3. The results from the model coffting code can be found [here](https://github.com/prateeks97/linear_and_nonlinear_modelFitting/tree/master/Non-Linear%20Regression/result_files). These results are used by a [MATLAB script](https://github.com/prateeks97/linear_and_nonlinear_modelFitting/blob/master/Non-Linear%20Regression/MATLAB_plotting_script/nonLinearModelFitting.m) to plot the results.
+3. The results from the model fitting code can be found [here](https://github.com/prateeks97/linear_and_nonlinear_modelFitting/tree/master/Non-Linear%20Regression/result_files). These results are used by a [MATLAB script](https://github.com/prateeks97/linear_and_nonlinear_modelFitting/blob/master/Non-Linear%20Regression/MATLAB_plotting_script/nonLinearModelFitting.m) to plot the results.
 4.  Log model is used to fit all the given data set. 
  
 
