@@ -1,7 +1,11 @@
 
   
 
+  
+
 # Least Sqaures and Normal Equations
+
+  
 
   
 
@@ -11,7 +15,11 @@
 
   
 
-1. The data set for 3,398 meals eaten by 83 different people is given [here](https://github.com/prateeks97/linear_and_nonlinear_modelFitting/tree/master/Model%20Fitting%20Using%20Least%20Squares%20and%20Normal%20Equations/data_set). The first column is the participant ID, the second column is the meal ID. The third column is the number of bites taken in the meal, and the fourth column is the number of kilocalories consumed.
+  
+
+1. The data set for 3,398 meals eaten by 83 different people is given [here](https://github.com/prateeks97/linear_and_nonlinear_modelFitting/blob/master/Model%20Fitting%20Using%20Least%20Squares%20and%20Normal%20Equations/data_set/model_dataSet.csv). The first column is the participant ID, the second column is the meal ID. The third column is the number of bites taken in the meal, and the fourth column is the number of kilocalories consumed.
+
+  
 
   
 
@@ -19,7 +27,11 @@
 
   
 
+  
+
 3. More information regarding [Least Squares](https://www.mathsisfun.com/data/least-squares-regression.html) and [Normal Equations](http://mlwiki.org/index.php/Normal_Equation) can be found in the hyperlinks.
+
+  
 
   
 
@@ -31,7 +43,11 @@
 
   
 
-1. Two models were used to fit the given [data set](https://github.com/prateeks97/linear_and_nonlinear_modelFitting/tree/master/Model%20Fitting%20Using%20Least%20Squares%20and%20Normal%20Equations/data_set) , namely, [Linear](https://github.com/prateeks97/linear_and_nonlinear_modelFitting/blob/master/Model%20Fitting%20Using%20Least%20Squares%20and%20Normal%20Equations/cpp_modelFitting_codes/line_fitting.cpp) and [Upward Parabola](http://jwilson.coe.uga.edu/EMT725/Class/Sarfaty/EMT669/InstructionalUnit/Parabolas/parabolas.html#:~:text=The%20standard%20form%20is%20%28x,is%20x%20=%20h%20-%20p.) model.
+  
+
+1. Two models were used to fit the given [data set](https://github.com/prateeks97/linear_and_nonlinear_modelFitting/blob/master/Model%20Fitting%20Using%20Least%20Squares%20and%20Normal%20Equations/data_set/model_dataSet.csv) , namely, [Linear](http://www.stat.yale.edu/Courses/1997-98/101/linreg.htm) and [Upward Parabola](http://jwilson.coe.uga.edu/EMT725/Class/Sarfaty/EMT669/InstructionalUnit/Parabolas/parabolas.html#:~:text=The%20standard%20form%20is%20%28x,is%20x%20=%20h%20-%20p.) model.
+
+  
 
   
 
@@ -39,11 +55,17 @@
 
   
 
+  
+
 3. The [results](https://github.com/prateeks97/linear_and_nonlinear_modelFitting/tree/master/Model%20Fitting%20Using%20Least%20Squares%20and%20Normal%20Equations/model_results) from the model are used by the [MATLAB script](https://github.com/prateeks97/linear_and_nonlinear_modelFitting/blob/master/Model%20Fitting%20Using%20Least%20Squares%20and%20Normal%20Equations/MATLAB_plotting_script/model_fitting_plotting.m) for plotting results.
 
   
 
+  
+
 ## Results
+
+  
 
   
 
@@ -53,7 +75,11 @@ The resulting fit obtained from the models are shown below:
 
   
 
+  
+
 ### Data Set:
+
+  
 
   
 
@@ -63,7 +89,11 @@ The resulting fit obtained from the models are shown below:
 
   
 
+  
+
 ### Linear Model Fitting:
+
+  
 
   
 
@@ -73,7 +103,11 @@ The resulting fit obtained from the models are shown below:
 
   
 
+  
+
 ### Upward Parobola Model Fitting:
+
+  
 
   
 
