@@ -9,6 +9,7 @@ The model to be fitted is given as:
 <a href="https://www.codecogs.com/eqnedit.php?latex=y&space;=&space;ln&space;(ax)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?y&space;=&space;ln&space;(ax)" title="y = ln (ax)" /></a>
 </p>
 where,
+
 a = unknown
 
 x = x data point
@@ -20,6 +21,7 @@ y = y data point
 </p>
 
 where,
+
 E = error function
 
 N = number of total known data points
@@ -66,7 +68,7 @@ where,
 
 ## Results
 
-Resulting plots are given below:
+Non-Linear model fitting plots for three data sets are given below:
 
   
 
